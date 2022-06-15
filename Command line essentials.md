@@ -6,3 +6,5 @@ At first we are gonna make a txt file with `nano` editor to list all the basic c
 
 
 ![shell](https://user-images.githubusercontent.com/87390353/173865406-78b346c7-77b2-4b94-a4b7-aa0d6558daa4.jpg)
+
+4. Now save the file with `[ctrl+x,y,enter]`.
