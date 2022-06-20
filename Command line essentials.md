@@ -47,6 +47,10 @@ At first we are gonna make a txt file with `nano` editor to list all the basic c
 10. cat (concatenate text file)
 11. less (show the content of text file in a separate window)
 
+![ss1](https://user-images.githubusercontent.com/87390353/174638478-82e965c3-d6ef-4a2d-98a3-c87ac21684b1.jpg)
+
+![ss22](https://user-images.githubusercontent.com/87390353/174638507-7c64e8da-6655-4b68-9389-9533277721aa.jpg)
+
 
    
    
