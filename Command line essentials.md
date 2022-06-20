@@ -11,11 +11,11 @@ At first we are gonna make a txt file with `nano` editor to list all the basic c
 
 ---
 - # Uses :
-```
+
 1. cd  (change the directory)
 2. pwd (show the current directory)
 3. ls  (list all files of the directory)
-```
+
 
 
 ![command](https://user-images.githubusercontent.com/87390353/174104071-6d8d7ff5-2d31-4a84-840f-24905e63cd39.jpg)
@@ -50,6 +50,16 @@ At first we are gonna make a txt file with `nano` editor to list all the basic c
 ![ss1](https://user-images.githubusercontent.com/87390353/174638478-82e965c3-d6ef-4a2d-98a3-c87ac21684b1.jpg)
 
 ![ss22](https://user-images.githubusercontent.com/87390353/174638507-7c64e8da-6655-4b68-9389-9533277721aa.jpg)
+
+- Press 'q' to exit from the separate window.
+
+---
+12. grep (grab data from a certain file)
+13. mkdir (make a directory)
+14. touch (create files in the current directory)
+
+![polo](https://user-images.githubusercontent.com/87390353/174640294-5ba973ea-f510-42a8-b606-51d85c63281f.jpg)
+
 
 
    
