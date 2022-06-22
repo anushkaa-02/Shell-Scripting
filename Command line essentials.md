@@ -1,4 +1,5 @@
-# Command line essentials :
+![vg](https://user-images.githubusercontent.com/87390353/175115113-33e276c9-9d11-4b50-b6cb-8353f8ed3efe.jpg)
+
 At first we are gonna make a txt file with `nano` editor to list all the basic commands.
 ```
 1. Open Git bash
@@ -60,6 +61,23 @@ At first we are gonna make a txt file with `nano` editor to list all the basic c
 
 ![polo](https://user-images.githubusercontent.com/87390353/174640294-5ba973ea-f510-42a8-b606-51d85c63281f.jpg)
 
+---
+15. chmod (Change Mode)
+     - chmod +r [file_name]
+     - chmod +w [file_name]
+     - chmod +x [file_name]
+     
+16. man+help (General Commands Manual)
+      - Press 'h' to summary up commands.
+      - Press 'q' when you want to exit.
+
+---
+
+![vg - Copy](https://user-images.githubusercontent.com/87390353/175115412-47b48657-5a6e-43a4-a34c-3e5d7f242bf3.jpg)
+
+---
+
+![cf](https://user-images.githubusercontent.com/87390353/175114664-e913df06-f5c0-4236-9bfa-a87f27a1f20c.jpg)
 
 
    
