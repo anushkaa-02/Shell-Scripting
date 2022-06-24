@@ -14,10 +14,10 @@
 
 | Bourne Shell Types | C Shell Types |
 |--------------------|---------------|
-| Bourne Shell      | C Shell |
-| Korn Shell | TENEX/TOPS C Shell |
-| Bourne-Again Shell | Z Shell |
-| POSIX Shell | |
+|1. Bourne Shell      | C Shell |
+|2. Korn Shell | TENEX/TOPS C Shell |
+|3. Bourne-Again Shell | Z Shell |
+|4. POSIX Shell | |
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
