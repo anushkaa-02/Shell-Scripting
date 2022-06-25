@@ -12,3 +12,7 @@
     - An environmental variable is available to any child process of the shell. Some programs need environment variables in order to function correctly.
 - Shell Variable:
     - A shell variable is a special variable that is set by the shell and is required by the shell in order to function corrently. Some of these variables are environment variables whereas others are local variables.
+
+
+## Defining Variable:
+--- 
