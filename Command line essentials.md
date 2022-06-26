@@ -65,9 +65,11 @@ At first we are gonna make a txt file with `nano` editor to list all the basic c
 15. chmod (Change Mode)
      - chmod +r [file_name]
      - chmod +w [file_name]
-     - chmod +x [file_name]\
+     - chmod +x [file_name]
+     
 **Note:** Another form of writing **chmod** is 
-     ![Screenshot (221)](https://user-images.githubusercontent.com/91726340/175812601-3ff7843f-7066-450e-83b8-0c3c39f816cd.png)
+
+   ![Screenshot (221)](https://user-images.githubusercontent.com/91726340/175812601-3ff7843f-7066-450e-83b8-0c3c39f816cd.png)
      
 16. man+help (General Commands Manual)
       - Press 'h' to summary up commands.
