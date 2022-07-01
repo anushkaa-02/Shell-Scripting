@@ -26,5 +26,9 @@
 ---
 - # String Operators:
 
-
 ![st](https://user-images.githubusercontent.com/87390353/176932522-4fe7b175-4486-443a-aef0-669d2c6ac3e6.jpg)
+
+---
+- # File Test Operators:
+
+![f](https://user-images.githubusercontent.com/87390353/176933236-8e3ca807-b343-46aa-9189-a88a5a5255be.jpg)
