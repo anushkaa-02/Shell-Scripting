@@ -29,4 +29,22 @@
 
 ![var3](https://user-images.githubusercontent.com/87390353/176923437-690a1b2f-9108-406b-9d99-8b799b62bc0e.jpg)
 
+---
+
+- Special Variable:
+   - #$0
+   - $#
+   - $*
+   - $@
+   - $?
+   - $$
+
+- Example:
+
+![special](https://user-images.githubusercontent.com/87390353/176928054-571c3bbc-8bb8-4277-a37c-d0e1b052517f.jpg)
+
+![sp](https://user-images.githubusercontent.com/87390353/176928438-84130218-b2f5-4207-a5aa-40d8c4f0e5a1.jpg)
+
+- "$?" returns either 0 or 1. If your previous commands run succesfully then it will return 0, otherwise 1.
+
 
