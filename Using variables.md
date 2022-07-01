@@ -41,7 +41,7 @@
 
 - Example:
 
-![special](https://user-images.githubusercontent.com/87390353/176928054-571c3bbc-8bb8-4277-a37c-d0e1b052517f.jpg)
+![special](https://user-images.githubusercontent.com/87390353/176929660-44623106-6c48-41c4-9a40-a8ad98c176b2.jpg)
 
 ![sp](https://user-images.githubusercontent.com/87390353/176928438-84130218-b2f5-4207-a5aa-40d8c4f0e5a1.jpg)
 
