@@ -8,3 +8,8 @@
 - Nested Loop
 - Loop Control
 
+---
+
+1. For loop example :
+
+![for](https://user-images.githubusercontent.com/87390353/180636578-15091d3e-666e-436d-979a-ef6549f16b74.jpg)
