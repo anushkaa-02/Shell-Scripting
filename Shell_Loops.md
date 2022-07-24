@@ -13,3 +13,11 @@
 1. For loop example :
 
 ![for](https://user-images.githubusercontent.com/87390353/180636578-15091d3e-666e-436d-979a-ef6549f16b74.jpg)
+
+---
+
+2. While loop example :
+
+![while](https://user-images.githubusercontent.com/87390353/180636875-9ab1f08d-f6d2-4f4a-8d5f-c4d74baa487e.jpg)
+
+
