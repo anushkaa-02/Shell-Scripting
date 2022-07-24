@@ -20,4 +20,10 @@
 
 ![while](https://user-images.githubusercontent.com/87390353/180636875-9ab1f08d-f6d2-4f4a-8d5f-c4d74baa487e.jpg)
 
+---
+
+3. Until loop example :
+
+![until](https://user-images.githubusercontent.com/87390353/180637336-c2ae8a39-275e-42bd-83c2-755c49357120.jpg)
+
 
